@@ -6,15 +6,15 @@ The Gallery repository of Parcels, including scripts and example renderings to v
 ## How to add a picture to the Gallery
 
  - clone the repo : git clone https://github.com/OceanParcels/parcels_gallery.git
- - git branch myplot
- - git checkout myplot
+ - git branch <my_plot>
+ - git checkout <my_plot>
  - cp yourplot.png images/
  - cp yourplot.ipynb scripts_ipynb/
  (- cp yourplot.py scripts_py/)
  - git add *
  - git commit -m "<your_short_plot_name> plot for the gallery"
- - git push origin myplot
- - got to https://github.com/OceanParcels/parcels_gallery and click on pull request to add your pull request
+ - git push origin <my_plot>
+ - got to https://github.com/OceanParcels/parcels_gallery and click on pull request to add your pull request (appears at top of page)
  - wait for your request to be merged
 
 ## 
