@@ -20,3 +20,5 @@ The Gallery repository of Parcels, including scripts and example renderings to v
 # Binder address
 
 https://mybinder.org/v2/gh/OceanParcels/parcels_gallery/HEAD
+
+(https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OceanParcels/parcels_gallery/HEAD)
