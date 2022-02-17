@@ -17,6 +17,10 @@ The Gallery repository of Parcels, including scripts and example renderings to v
  - got to https://github.com/OceanParcels/parcels_gallery and click on pull request to add your pull request
  - wait for your request to be merged
 
+## 
+To have the table in the jupyter-notebook template showing the version of the python packages: <br>
+conda install -c conda-forge version_information
+
 # Binder address
 
 https://mybinder.org/v2/gh/OceanParcels/parcels_gallery/HEAD
