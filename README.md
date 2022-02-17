@@ -16,3 +16,7 @@ The Gallery repository of Parcels, including scripts and example renderings to v
  - git push origin myplot
  - got to https://github.com/OceanParcels/parcels_gallery and click on pull request to add your pull request
  - wait for your request to be merged
+
+# Binder address
+
+https://mybinder.org/v2/gh/OceanParcels/parcels_gallery/HEAD
