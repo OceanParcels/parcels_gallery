@@ -1,7 +1,7 @@
 # parcels_gallery
 The Gallery repository of Parcels, including scripts and example renderings to visualise Lagrangian ocean flow.
 
-## To see the published plot gallery website, see: [https://xxx](https://xxx)
+## To see the published plot gallery website, see: [https://oceanparcels.org/#gallery](https://oceanparcels.org/#gallery)
 
 ## How to add a picture to the Gallery
 
