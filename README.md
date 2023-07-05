@@ -14,7 +14,7 @@ The Gallery repository of Parcels, including scripts and example renderings to v
  - git add *
  - git commit -m "<your_short_plot_name> plot for the gallery"
  - git push origin <my_plot>
- - got to https://github.com/OceanParcels/parcels_gallery and click on pull request to add your pull request (appears at top of page)
+ - go to https://github.com/OceanParcels/parcels_gallery and click on pull request to add your pull request (appears at top of page)
  - wait for your request to be merged
 
 ## 
